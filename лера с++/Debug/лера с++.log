@@ -1,0 +1,5 @@
+﻿  лера с++.cpp
+C:\Users\dango\source\repos\лера с++\лера с++\лера с++.cpp(49,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dango\source\repos\лера с++\лера с++\лера с++.cpp(47,41): warning C4101: 'k': unreferenced local variable
+C:\Users\dango\source\repos\лера с++\лера с++\лера с++.cpp(47,44): warning C4101: 'l': unreferenced local variable
+  лера с++.vcxproj -> C:\Users\dango\source\repos\лера с++\Debug\лера с++.exe
